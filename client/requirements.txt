@@ -1,0 +1,4 @@
+mcp
+openai
+azure-cognitiveservices-speech
+pygame

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "music_player": {
+      "isActive":true,
+      "command": "python",
+      "args": [
+        "../server/mplayer/main.py"
+      ]
+    }
+  }
+}
